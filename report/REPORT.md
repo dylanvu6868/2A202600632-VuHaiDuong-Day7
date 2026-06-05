@@ -1,7 +1,7 @@
 # Báo Cáo Lab 7: Embedding & Vector Store
 
-**Họ tên:** Sinh viên AI20K  
-**Nhóm:** Internal Knowledge Assistant  
+**Họ tên:** Vũ Hải Dương, Vũ Thành Lộc, Hoàng Hải, Nguyễn Thành Danh, Nguyễn Tuấn Phương, Vũ Vinh
+**Nhóm:** 36
 **Ngày:** 2026-06-05
 
 ---
